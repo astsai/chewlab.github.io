@@ -14,14 +14,6 @@ Here is a graphic from <a href="https://stanleyn.github.io/">Dr. Natalie Stanley
 
 Currently, I am studying medicine at the University of California, Davis School of Medicine. My anticipated graduation is in 2022. 
 
-<a href="https://scholar.google.com/citations?user=1jxR9JIAAAAJ&hl=en">Google Scholar</a>
-
-<a href="https://www.researchgate.net/profile/Amy_Tsai6">Research Gate</a>
-
-<a href="https://twitter.com/amytsaii?lang=en">Twitter</a>
-
-<a href="https://www.instagram.com/amiitsaii/">Instagram</a>
-
 <br> <b> Awards and Honors </b> 
 <br>Exceptional Student Award | ISAC 34th Annual Cytometry meeting, Vancouver, Canada, 2019 
 
