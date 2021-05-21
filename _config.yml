@@ -12,7 +12,7 @@ zip_code: 94305
 country: USA
 phone: 
 
-# icon: fa-circle # Font Awesome class for your site's icon
+ icon: fa-flask # Font Awesome class for your site's icon
 
 # Social settings
 github_url: https://astsai.github.io/
