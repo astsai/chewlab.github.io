@@ -18,11 +18,11 @@ Our planet faces an anthropological extinction, exacerbated by decades of unsust
    <p>What I thought would have been a major challenge ended up being the easiest change of all. I had never enjoyed cooking meat, and I found it easy to cut meat out of my diet. In addition, I am slowly decreasing consumption of animal products. I've started making my own oat milk to replace my whole milk (it's delicious and froths well too!)
 </p>
 
-      <span class="image main"><img src="assets/images/meatless-01.png" alt="" /></span>
+<span class="image main"><img src="assets/images/meatless-01.png" alt="" /></span>
 
 <p><b>3. No-buy</b></p>
    <p>It's easy to look at ads and impulsively purchase a nifty new gadget, a gorgeous new shirt, or a beautifully packaged makeup-item. The best way to lead a sustainable life is to simply buy less. Resources are consumed at an unsustainable rate to keep up with fast-fashion. Child labor is implicated in mica-mining for makeup. More and more waste is generated when we buy and toss out. For this reason, for the next year (June 2021-June2022), I will not purchase any articles of clothing or makeup. I will focus on using up all of my current skincare and personal care items before repurchasing.
 </p>
 
-      <span class="image main"><img src="assets/images/nobuy-01.png" alt="" /></span>
+<span class="image main"><img src="assets/images/nobuy-01.png" alt="" /></span>
 
