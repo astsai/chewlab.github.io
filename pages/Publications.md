@@ -38,5 +38,9 @@ published: true
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0305197816300072">New genetic resources and a preliminary multi-locus assessment of species boundaries in the Batis capensis species complex (Passeriformes: Platysteridae)</a>. GOU Wogan, KA Feldheim, <b>AS Tsai</b>, AA Brown, J Kapelke, M Galinato, JN Tung, JM Bates, P Kaliba, G Voelker, RCK Bowie. Biochemical Systematics and Ecology. 2016.</p>
 
 <p class="p1"><strong>Accepted:</strong></p>
+<p>Human immune system adaptations to simulated microgravity revealed by single-cell mass cytometry. JM Spatz, M Hughes-Fulford, <b>A Tsai</b>, D Gaudilliere, E Ganio, M Angst, N Aghaeepour, B Gaudilliere. Scientific Reports, 2021.</p>
 
 <p class="p1"><strong>Submitted:</strong></p>
+<p><a href="https://www.biorxiv.org/content/10.1101/2021.02.09.430269v1?rss=1">Integrated plasma proteomic and single-cell immune signaling network signatures demarcate mild, moderate, and severe COVID-19</a>. D Feyaerts, J Hédou, J Gillard, H Chen, ES Tsai, LS Peterson, K Ando, M Manohar, E Do, GKR Dhondalay, J Fitzpatrick, M Artandi, I Chang. TT Snow, RS Chinthrajah, CM Warren, R Wittman, JG Meyerowitz, EA Ganio, IA Stelzer, X Han, F Verdonk, DK Gaudilliere, N Mukherjee, <b>AS Tsai</b>, KK RumerS Jiang, SI Valdes Ferrer, JD Kelly, D Furman, N Aghaeepour, MS Angst, SD Boyd, BA Pinsky, GP Nolan, KC Nadeau, B Gaudilliere, DR McIlwain.</p>
+  
+<p>Experimental nitroso-redox modulation to reverse sepsis-induced metabolic reprogramming of microglia and prevent long-term cognitive impairment. F Verdonk, L Chatre, Lucille Bocarra, A Danckaert, J Van Steenwincke, G Ferreira de Medeiros, C Fitting, A Tsai, R Sonneville, P GressensFA Bozzal, T Sharshar, M Ricchetti, F Chretien. Science Advances, 2021.</p>
