@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
+title: Mission
 image: nature-01.png
-permalink: /Team/
+permalink: /Mission/
 published: true
 ---
