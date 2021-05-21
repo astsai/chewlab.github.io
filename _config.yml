@@ -1,20 +1,21 @@
 # Site settings
-title: REWRITING LIFE
-email: chewwl@gis.a-star.edu.sg
-description: The Chew Lab @ Genome Institute of Singapore
+title: Amy S. Tsai
+email: astsai127@gmail.com
+description: Researcher at Stanford University<br>MS4 at UC Davis School of Medicine
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: https://chewlab.github.io
-author: Wei Leong CHEW
-street_address: 60 Biopolis Street
-city: Singapore
-zip_code: 138672
-country: Singapore
-phone: (65) 6808-8044
+url: https://astsai.github.io
+author: Amy S. Tsai
+street_address: 300 Pasteur Drive
+city: Stanford
+state: CA
+zip_code: 94305
+country: USA
+phone: 
 
 # icon: fa-circle # Font Awesome class for your site's icon
 
 # Social settings
-github_url: https://chewlab.github.io/
+github_url: https://astsai.github.io/
 twitter_url: . 
 
 plugins:
