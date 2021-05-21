@@ -5,7 +5,7 @@ image: brain.png
 permalink: /Publications/
 published: true
 ---
-<b><a href="https://scholar.google.com/citations?user=1jxR9JIAAAAJ&hl=en">Google Scholar</a> </b></br>
+<center><b><a href="https://scholar.google.com/citations?user=1jxR9JIAAAAJ&hl=en">Google Scholar</a> </b> </center></br>
 
 <p class="p1"><strong>TEXTBOOKS:</strong></p>
 <p><a href="https://doi.org/10.1007/978-3-030-69859-1_5">The Role of Mass Cytometry in Early Detection, Diagnosis, and Treatment of Head and Neck Cancer.</a>
