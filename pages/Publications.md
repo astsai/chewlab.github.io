@@ -5,6 +5,12 @@ image: brain.png
 permalink: /Publications/
 published: true
 ---
+<p class="p1"><strong>TEXTBOOKS:</strong></p>
+<p><a href="https://doi.org/10.1007/978-3-030-69859-1_5">The Role of Mass Cytometry in Early Detection, Diagnosis, and Treatment of Head and Neck Cancer.</a>. 
+  <b>Tsai A.S.</b>, Einhaus J.F., Hedou J., Tsai E., Gaudilliere D., Gaudilliere B. (2021) In: El Assal R., Gaudilliere D., Connelly S.T. (eds) Early Detection and Treatment of Head & Neck Cancers. Springer, Cham.
+
+<p class="p1"><strong>PEER-REVIEWED JOURNALS:</strong></p>
+
 <p class="p1"><strong>Published:</strong></p>
 
 <p><a href="https://stm.sciencemag.org/content/13/592/eabd9898.abstract">Integrated modeling of metabolome, proteome, and immunome trajectories predicts labor onset</a>. Stelzer IA, Ghaemi MS, Han X, Ando K, Hedou JJ, Feyaerts D, Peterson LS, Rumer KK, Tsai ES, Ganio EA, Gaudilliere DK, <b>Tsai AS</b>, Choisy B, Gaigne LP, Verdonk F, Jacobsen D, Gavasso S, Traber GM, Ellenberger M, Stanley N, Becker M, Culos A, Fallahzadeh R, Wong RJ, Darmstadt GL, Druzin ML, Winn VD, Gibbs RS, Ling XB, Sylvester K, Carvalho B, Snyder MP, Shaw GM, Stevenson DK, Contrepois K, Angst MS, Aghaeepour N, Gaudilliere B. Science Translational Medicine, 2021. </p>
