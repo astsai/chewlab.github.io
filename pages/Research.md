@@ -18,6 +18,6 @@ Currently, I am studying medicine at the University of California, Davis School 
 <br>Exceptional Student Award | ISAC 34th Annual Cytometry meeting, Vancouver, Canada, 2019 
 
 <br><b> Hobbies </b>
- <br>Travel: 🇨🇿🇩🇪🇦🇹🇨🇦🇨🇳🇫🇮🇬🇧🇫🇷🇹🇼🇸🇪 
- <br>Coffee brewing 
+ <br>Travel: 🇨🇷🇨🇿🇩🇪🇦🇹🇨🇦🇨🇳🇫🇮🇬🇧🇫🇷🇹🇼🇸🇪 
+ <br>Coffee brewing. check out my coffee-gram here --> <a href="https://www.instagram.com/acoffeeadaykeepsthemdsane/">A Coffee a Day Keeps the MD Sane</a>.
  <br>Painting/graphic design
