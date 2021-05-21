@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Research
 image: OurResearch.jpg
 permalink: /Research/
 published: true
