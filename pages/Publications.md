@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Publications
-image: LabSpace.JPG
+image: brain.png
 permalink: /Publications/
 published: true
 ---
 <p class="p1"><strong>Published:</strong></p>
+
+<p><a href="https://stm.sciencemag.org/content/13/592/eabd9898.abstract">Integrated modeling of metabolome, proteome, and immunome trajectories predicts labor onset</a>. Stelzer IA, Ghaemi MS, Han X, Ando K, Hedou JJ, Feyaerts D, Peterson LS, Rumer KK, Tsai ES, Ganio EA, Gaudilliere DK, <b>Tsai AS</b>, Choisy B, Gaigne LP, Verdonk F, Jacobsen D, Gavasso S, Traber GM, Ellenberger M, Stanley N, Becker M, Culos A, Fallahzadeh R, Wong RJ, Darmstadt GL, Druzin ML, Winn VD, Gibbs RS, Ling XB, Sylvester K, Carvalho B, Snyder MP, Shaw GM, Stevenson DK, Contrepois K, Angst MS, Aghaeepour N, Gaudilliere B. Science Translational Medicine, 2021. </p>
+
+<p><a href="https://www.nature.com/articles/s42256-020-00232-8">Integration of Mechanistic Immunological Knowledge into a Machine Learning Pipeline Increases Predictive Power</a>. Culos A., <b>Tsai, A.S.</b>, Stanley N., Becker M., Ghaemi M.S., McIlwain D. R., Fallahzadeh R., Tanada A., Nassar. H., Espinosa C., Xenochristou M., Ganio E., Peterson L., Han X, Stelzer I.A., Ando K., Gaudilliere D., Phongpreecha T., Maric I., Chang A.L., Shaw G.M., Stevenson D.K., Bendall S., Davis K.L., Fantl W., Nolan G.P., Hastie T., Tibshirani R., Angst M.S., Gaudilliere B., Aghaeepour N. Nature Machine Intelligence, 2020. </p>
 
 <p><a href="https://www.nature.com/articles/s41467-020-17565-y">Preferential inhibition of adaptive immune system dynamics by glucocorticoids in patients after acute surgical trauma</a>. EA. Ganio, N Stanley, V Lindberg-Larsen, J Einhaus, <b>AS Tsai</b>, F Verdonk, A Culos, S Gahemi KK Rumer, IA Stelzer, D Gaudilliere, E Tsai, R Fallahzadeh, B Choisy, H Kehlet, N Aghaeepour, MS. Angst, B Gaudilliere. Nature Communications. 2020. </p>
 
@@ -29,9 +33,4 @@ published: true
 
 <p class="p1"><strong>Accepted:</strong></p>
 
-<p>Integration of Mechanistic Immunological Knowledge into a Machine Learning Pipeline Increases Predictive Power. A Culos, <b>AS Tsai</b>, N Stanley, M Becker, MS Ghaemi, DR McIlwain, R Fallahzadeh, A Tanada, H Nassar, E Ganio, L Peterson, X Han, IA Stelzer, K Ando, D Gaudilliere, T Phongpreecha, I Maric, AL Chang, GM Shaw, DK Stevenson, S Bendall, KL Davis, W Fantl, GP Nolan, T Hastie, R Tibshirani, MS Angst, B Gaudilliere, N Aghaeepour. Nature Machine Intelligence. 2020. </p>
-
 <p class="p1"><strong>Submitted:</strong></p>
-
-<p>Integrated modeling of metabolome, proteome, and immunome trajectories predicts labor onset. IA Stelzer, MS Ghaemi, X Han, K Ando, J Hedou, K Contrepoix, L Peterson, D Feyaerts, ES Tsai, EA Ganio, DK Gaudilliere, <b>AS Tsai</b>, RJ Wong, CC Quaintance, B Carvalho, M Snyder, GM Shaw, DK Stevenson, MS Angst, N Aghaeepour, B Gaudilliere. Science Translational. 2020 </p>
-
