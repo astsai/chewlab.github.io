@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-image: OurResearch.jpg
+image: glab-01.png
 permalink: /Research/
 published: true
 ---
