@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-image: People.JPG
+image: nature-01.png
 permalink: /Team/
 published: true
 ---
