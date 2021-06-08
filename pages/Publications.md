@@ -15,6 +15,8 @@ published: true
 
 <p class="p1"><strong>Published:</strong></p>
 
+<p><a href="https://www.nature.com/articles/s41598-021-90458-2">Human immune system adaptations to simulated microgravity revealed by single-cell mass cytometry</a>. JM Spatz, M Hughes-Fulford, <b>A Tsai</b>, D Gaudilliere, E Ganio, M Angst, N Aghaeepour, B Gaudilliere. Nature Scientific Reports, 2021.</p>
+
 <p><a href="https://stm.sciencemag.org/content/13/592/eabd9898.abstract">Integrated modeling of metabolome, proteome, and immunome trajectories predicts labor onset</a>. Stelzer IA, Ghaemi MS, Han X, Ando K, Hedou JJ, Feyaerts D, Peterson LS, Rumer KK, Tsai ES, Ganio EA, Gaudilliere DK, <b>Tsai AS</b>, Choisy B, Gaigne LP, Verdonk F, Jacobsen D, Gavasso S, Traber GM, Ellenberger M, Stanley N, Becker M, Culos A, Fallahzadeh R, Wong RJ, Darmstadt GL, Druzin ML, Winn VD, Gibbs RS, Ling XB, Sylvester K, Carvalho B, Snyder MP, Shaw GM, Stevenson DK, Contrepois K, Angst MS, Aghaeepour N, Gaudilliere B. Science Translational Medicine, 2021. </p>
 
 <p><a href="https://www.nature.com/articles/s42256-020-00232-8">Integration of Mechanistic Immunological Knowledge into a Machine Learning Pipeline Increases Predictive Power</a>. Culos A.*, <b>Tsai, A.S.*</b>, Stanley N., Becker M., Ghaemi M.S., McIlwain D. R., Fallahzadeh R., Tanada A., Nassar. H., Espinosa C., Xenochristou M., Ganio E., Peterson L., Han X, Stelzer I.A., Ando K., Gaudilliere D., Phongpreecha T., Maric I., Chang A.L., Shaw G.M., Stevenson D.K., Bendall S., Davis K.L., Fantl W., Nolan G.P., Hastie T., Tibshirani R., Angst M.S., Gaudilliere B., Aghaeepour N. Nature Machine Intelligence, 2020. <b>*co-first authors*</b></p>
@@ -40,7 +42,6 @@ published: true
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0305197816300072">New genetic resources and a preliminary multi-locus assessment of species boundaries in the Batis capensis species complex (Passeriformes: Platysteridae)</a>. GOU Wogan, KA Feldheim, <b>AS Tsai</b>, AA Brown, J Kapelke, M Galinato, JN Tung, JM Bates, P Kaliba, G Voelker, RCK Bowie. Biochemical Systematics and Ecology. 2016.</p>
 
 <p class="p1"><strong>Accepted:</strong></p>
-<p>Human immune system adaptations to simulated microgravity revealed by single-cell mass cytometry. JM Spatz, M Hughes-Fulford, <b>A Tsai</b>, D Gaudilliere, E Ganio, M Angst, N Aghaeepour, B Gaudilliere. Scientific Reports, 2021.</p>
 
 <p class="p1"><strong>Submitted:</strong></p>
 <p><a href="https://www.biorxiv.org/content/10.1101/2021.02.09.430269v1?rss=1">Integrated plasma proteomic and single-cell immune signaling network signatures demarcate mild, moderate, and severe COVID-19</a>. D Feyaerts, J Hédou, J Gillard, H Chen, ES Tsai, LS Peterson, K Ando, M Manohar, E Do, GKR Dhondalay, J Fitzpatrick, M Artandi, I Chang. TT Snow, RS Chinthrajah, CM Warren, R Wittman, JG Meyerowitz, EA Ganio, IA Stelzer, X Han, F Verdonk, DK Gaudilliere, N Mukherjee, <b>AS Tsai</b>, KK RumerS Jiang, SI Valdes Ferrer, JD Kelly, D Furman, N Aghaeepour, MS Angst, SD Boyd, BA Pinsky, GP Nolan, KC Nadeau, B Gaudilliere, DR McIlwain. Journal of Clinical Investigation, 2021</p>
