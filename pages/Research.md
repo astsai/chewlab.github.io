@@ -15,7 +15,10 @@ Here is a graphic from <a href="https://stanleyn.github.io/">Dr. Natalie Stanley
 Currently, I am studying medicine at the University of California, Davis School of Medicine. My anticipated graduation is in 2022. 
 
 <br> <b> Awards and Honors </b> 
+<br> Medical Student Research Fellowship, UC Davis, CA, USA, 2021
 <br>Exceptional Student Award | ISAC 34th Annual Cytometry meeting, Vancouver, Canada, 2019 
+<br>Mohammed Sayeed Presidential Travel Award | 42th Annual Conference on Shock, Coronado, CA, USA, 2019
+<br> Medical Student Research Fellowship, UC Davis, CA, USA, 2019
 
 <br><b> Hobbies </b>
  <br>Travel: 🇨🇷🇨🇿🇩🇪🇦🇹🇨🇦🇨🇳🇫🇮🇬🇧🇫🇷🇹🇼🇸🇪 
