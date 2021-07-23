@@ -9,7 +9,7 @@ published: true
 Our planet faces an anthropological extinction, exacerbated by decades of unsustainability. I am committed to a #zerowaste future, follow along with my mission here: 
 
 <p><b>1. Decreasing plastic waste</b></p>
-   <p>Although plastic waste is predominated by fishing equipment in the ocean, consumer waste still makes up a significant portion of waste. While I don't see paper straws as the smartest move, there are other ways of decreasing plastic waste. I always bring my own utensils in a reusable bag, which I wash after lunches in the hospital cafe. I stopped buying bottles of shampoo and conditioner, and now use shampoo and conditioner bars from Ethique. 
+   <p>Although plastic waste is predominated by fishing equipment in the ocean, consumer waste still makes up a significant portion of waste. Decreasing plastic waste, specifically single-use plastics, is an initiative anyone can take part in. You can bring your own utensils in a reusable bag, and wash after means. Switch from bottles of shampoo and conditioner to shampoo and conditioner bars from Ethique. 
 </p>
 
    <span class="image main"><img src="assets/images/ethique-01.png" alt="" /></span>
@@ -21,7 +21,7 @@ Our planet faces an anthropological extinction, exacerbated by decades of unsust
 <span class="image main"><img src="assets/images/meatless-01.png" alt="" /></span>
 
 <p><b>3. No-buy</b></p>
-   <p>It's easy to look at ads and impulsively purchase a nifty new gadget, a gorgeous new shirt, or a beautifully packaged makeup-item. The best way to lead a sustainable life is to simply buy less. Resources are consumed at an unsustainable rate to keep up with fast-fashion. Child labor is implicated in mica-mining for makeup. More and more waste is generated when we buy and toss out. For this reason, for the next year (June 2021-June2022), I will not purchase any articles of clothing or makeup. I will focus on using up all of my current skincare and personal care items before repurchasing.
+   <p>It's easy to look at ads and impulsively purchase a nifty new gadget, a gorgeous new shirt, or a beautifully packaged makeup-item. The best way to lead a sustainable life is to simply buy less. Resources are consumed at an unsustainable rate to keep up with fast-fashion. Child labor is implicated in mica-mining for makeup. More and more waste is generated when we buy and toss out. Ask your self if it's something you need, and will you actually have space for it in your life.
 </p>
 
 <span class="image main"><img src="assets/images/nobuy-01.png" alt="" /></span>
