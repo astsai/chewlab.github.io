@@ -49,3 +49,5 @@ published: true
 <p>Experimental nitroso-redox modulation to reverse sepsis-induced metabolic reprogramming of microglia and prevent long-term cognitive impairment. F Verdonk, L Chatre, Lucille Bocarra, A Danckaert, J Van Steenwincke, G Ferreira de Medeiros, C Fitting, <b>A Tsai</b>, R Sonneville, P GressensFA Bozzal, T Sharshar, M Ricchetti, F Chretien. Science Advances, 2021.</p>
 
 <p>Single-cell Analysis of the Neonatal Immune System Across the Gestational Age Continuum. LS Peterson, J Hedou, E Ganio, IA Stelzer, D Feyaerts, E Harbert, Y Adusumelli, K Ando, ES Tsai, <b>AS Tsai</b>, X Han, M Ringle, P Houghteling, J Reiss, D Lewis, VD Winn, MS Angst, N Aghaeepour, DK Stevenson, B Gaudilliere. Frontiers of Immunology. 2021.</p>
+
+<p>Measuring the human immune response to surgery: multiomics for the prediction of postoperative outcomes. F Verdonk, J Einhaus, <b>AS Tsai</b>, J Hedou, B Choisy, C Kin, N Aghaeepour, M Angst, D Gaudilliere, B Gaudilliere. Current Opinion in Critical Care, 2021.</p>
